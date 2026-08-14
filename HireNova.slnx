@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HireNova.Api/HireNova.Api.csproj" />
+    <Project Path="src/HireNova.BuildingBlocks.Api/HireNova.BuildingBlocks.Api.csproj" />
+    <Project Path="src/HireNova.BuildingBlocks.Domain/HireNova.BuildingBlocks.Domain.csproj" />
+    <Project Path="src/HireNova.BuildingBlocks.Infrastructure/HireNova.BuildingBlocks.Infrastructure.csproj" />
+  </Folder>
+</Solution>
