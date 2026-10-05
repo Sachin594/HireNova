@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
@@ -29,6 +29,10 @@
     <ProjectReference Include="..\HireNova.BuildingBlocks.Domain\HireNova.BuildingBlocks.Domain.csproj" />
     <ProjectReference Include="..\HireNova.BuildingBlocks.Api\HireNova.BuildingBlocks.Api.csproj" />
     <ProjectReference Include="..\HireNova.BuildingBlocks.Infrastructure\HireNova.BuildingBlocks.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Organization\" />
   </ItemGroup>
 
 </Project>

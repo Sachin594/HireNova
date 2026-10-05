@@ -1,5 +1,5 @@
 using HireNova.Api.Data;
-using HireNova.Api.Entities;
+using HireNova.Api.Entities.AplicationUser;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
